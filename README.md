@@ -1,18 +1,18 @@
-# roadmap-in-text
+## roadmap-text-tree-version
 
 ```
-Required for any path 
-
-Data Structures & Algorithms
-Git - Version Control 
-Basic Terminal Usage 
-GitHub 
-Licenses 
-Semantic Versioning 
-SSH 
-HTTP/HTTPS and APIs 
-Design Patterns 
-Character Encodings 
+.
+└── Required for any path /
+    ├── Data Structures & Algorithms
+    ├── Git - Version Control 
+    ├── Basic Terminal Usage 
+    ├── GitHub 
+    ├── Licenses 
+    ├── Semantic Versioning 
+    ├── SSH 
+    ├── HTTP/HTTPS and APIs 
+    ├── Design Patterns 
+    └── Character Encodings 
 ```
 
 ```
