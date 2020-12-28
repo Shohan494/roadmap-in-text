@@ -1,7 +1,8 @@
 # roadmap-in-text
 
-Required for any path 
 ```
+Required for any path 
+
 Data Structures & Algorithms
 Git - Version Control 
 Basic Terminal Usage 
