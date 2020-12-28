@@ -2,7 +2,7 @@
 
 Required for any path 
 ```
-Data Structures & Algorithms I 
+Data Structures & Algorithms
 Git - Version Control 
 Basic Terminal Usage 
 GitHub 
